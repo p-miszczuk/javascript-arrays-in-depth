@@ -7,7 +7,8 @@ import React from 'react';
 // import './lessons3/lesson5'
 // import './lessons3/lesson6'
 // import './lessons3/lesson7'
-import './lessons3/lesson8'
+// import './lessons3/lesson8'
+import './lessons3/lesson9'
 
 
 function App() {
