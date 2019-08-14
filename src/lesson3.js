@@ -5,13 +5,15 @@ import React from 'react';
 // import './lessons3/lesson3'
 // import './lessons3/lesson4'
 // import './lessons3/lesson5'
-import './lessons3/lesson6'
+// import './lessons3/lesson6'
+import './lessons3/lesson7'
 
 
 function App() {
     return (
         <div>
             lessons 3 - arrays
+            <ul className="task-list"></ul>
         </div>
     )
 }
