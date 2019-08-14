@@ -9,7 +9,9 @@ import React from 'react';
 // import './lessons3/lesson7'
 // import './lessons3/lesson8'
 // import './lessons3/lesson9'
-import './lessons3/lesson10'
+// import './lessons3/lesson10'
+import './lessons3/lesson11'
+
 
 function App() {
     return (
